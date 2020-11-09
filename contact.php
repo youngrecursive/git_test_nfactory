@@ -2,4 +2,4 @@
 
 echo 'feature';
 
-echo 'user 2 modif';
+echo 'modif user2';
